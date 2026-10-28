@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/spatialaudio/sfa-numpy",
+  "@type": "gh:Repository",
+  "gh:name": "sfa-numpy",
+  "gh:owner": "spatialaudio",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/spatialaudio/sfa-numpy/commit/ea94d6af6171cde9de605fd8ef1fd2ecee837f31",
+      "git:hexsha": "ea94d6af6171cde9de605fd8ef1fd2ecee837f31",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
