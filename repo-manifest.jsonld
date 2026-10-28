@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/sfa-numpy/commit/ea94d6af6171cde9de605fd8ef1fd2ecee837f31",
       "git:hexsha": "ea94d6af6171cde9de605fd8ef1fd2ecee837f31",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:05:05.929031+00:00"
     }
   ]
 }
